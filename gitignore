@@ -1,0 +1,16 @@
+# Ignore compiled binaries
+*.exe
+*.obj
+*.lib
+
+# Ignore map and overlay files
+*.map
+*.ovl
+
+# Ignore help files
+*.hlp
+
+# Optional: ignore build folders
+/bin/
+/build/
+/out/
